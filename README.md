@@ -1,3 +1,2 @@
 # hello-world
-test
-test 2
+First steps in the world of [Github](https://github.com)
